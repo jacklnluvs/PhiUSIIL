@@ -13,7 +13,7 @@ The project demonstrates data preprocessing, feature selection, model training, 
 - Prepare numerical features for machine learning.
 - Train a Decision Tree classification model.
 - Visualize the decision tree and confusion matrix.
-- Evaluate the model using classification metrics.
+- Evaluate the model using classification metrics
 
 ## 🛠️ Technologies Used
 
